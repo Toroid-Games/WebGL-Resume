@@ -1,9 +1,9 @@
 const cacheName = "Toroid Games-WebSiteResume-0.0.1";
 const contentToCache = [
     "Build/BuildData.loader.js",
-    "Build/BuildData.framework.js.gz",
-    "Build/BuildData.data.gz",
-    "Build/BuildData.wasm.gz",
+    "Build/BuildData.framework.js",
+    "Build/BuildData.data",
+    "Build/BuildData.wasm",
     "TemplateData/style.css"
 
 ];
